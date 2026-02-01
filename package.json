@@ -1,0 +1,25 @@
+{
+  "name": "timelogging-app",
+  "version": "1.0.0",
+  "description": "Logs time and activities done in a day this is test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcorpplayzreal/Timelogging-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bcorpplayzreal/Timelogging-app/issues"
+  },
+  "homepage": "https://github.com/bcorpplayzreal/Timelogging-app#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}
